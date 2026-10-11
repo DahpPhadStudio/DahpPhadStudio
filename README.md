@@ -3,12 +3,12 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 
 <p>
-I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like Spring Boot + Security.
-- 📚 I’m currently learning about Frontend and Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+- 👨‍💻 Actualmente estoy trabajando con tecnologías de desarrollo web como Spring Boot y Spring Security.
+- 📚 Actualmente estoy aprendiendo mas sobre tecnologías frontend y backend.
+- 🎯 Mis metas futuras: Aprender más tecnologías web - Crear sitios web increíbles.
 
 
 <!--
