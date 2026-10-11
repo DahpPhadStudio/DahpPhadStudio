@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge" />
 </p>
 
 ### Redes y Contacto
