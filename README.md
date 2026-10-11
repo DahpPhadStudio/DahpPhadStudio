@@ -3,16 +3,16 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am ☆Davinchy☆ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <p>
-Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar. 
+Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar. Mi sistema operativo de Desarrollo es con ARCH LINUX.
 </p>
 
 - 👨‍💻 Actualmente estoy trabajando con tecnologías de desarrollo web como Spring Boot y Spring Security.
 
   
-- 📚 Estoy aprendiendo sobre tecnologías frontend y backend, me gustan ambos lados.
+- 📚 Estoy aprendiendo sobre tecnologías frontend y backend, me gustan ambos lados.📚
 
   
-- 🎯 Mis metas futuras: Aprender más tecnologías web + Crear sitios web increíbles.
+- 🎯 Mis metas futuras: Aprender más tecnologías web + Crear sitios web increíbles.🎯
 
 
 <!--
