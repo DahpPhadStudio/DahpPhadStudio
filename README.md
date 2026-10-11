@@ -5,6 +5,7 @@ Soy desarrollador de software y me apasiona crear sitios web visualmente atracti
 </p>
 
 <h2 align="center">🐧 Sobre mí</h2>
+
 ```bash
 $ neofetch
 
@@ -17,6 +18,7 @@ Foco:      Clientes independientes
 Proyecto:  Dahp Phad Studio
 Extra:     IA en cada producto
 ```
+
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 - 🤝 Me enfoco en clientes independientes, emprendedores y negocios que quieren dar el salto al mundo digital: creo soluciones web a su medida, con tecnología e IA para ayudarlos a crecer.
