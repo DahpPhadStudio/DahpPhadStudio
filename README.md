@@ -79,7 +79,6 @@ flowchart LR
 | 🤖 Integración con IA | Negocios que quieren crecer | Tareas automáticas con inteligencia artificial |
 | 🔐 Login y roles seguros | Cualquier proyecto | Usuarios protegidos con Spring Security |
 
-📫 **Escríbeme:** dahpphadstudio@gmail.com
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
