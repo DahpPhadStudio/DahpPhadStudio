@@ -7,8 +7,10 @@ Soy desarrollador de software y me apasiona crear sitios web visualmente atracti
 </p>
 
 - 👨‍💻 Actualmente estoy trabajando con tecnologías de desarrollo web como Spring Boot y Spring Security.
-- 📚 Actualmente estoy aprendiendo mas sobre tecnologías frontend y backend.
-- 🎯 Mis metas futuras: Aprender más tecnologías web - Crear sitios web increíbles.
+  
+- 📚 Estoy aprendiendo sobre tecnologías frontend y backend, me gustan ambos lados.
+  
+- 🎯 Mis metas futuras: Aprender más tecnologías web + Crear sitios web increíbles.
 
 
 <!--
