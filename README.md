@@ -4,6 +4,22 @@
 Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar. 
 </p>
 
+<h2 align="center">🐧 Sobre mí</h2>
+
+```bash
+$ neofetch
+
+davinchy@dahpphadstudio
+-----------------------
+OS:        Arch Linux
+Rol:       Desarrollador web
+Stack:     Java · Spring Boot · Angular
+Foco:      Clientes independientes
+Proyecto:  Dahp Phad Studio
+Extra:     IA en cada producto
+```
+[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 - 🤝 Me enfoco en clientes independientes, emprendedores y negocios que quieren dar el salto al mundo digital: creo soluciones web a su medida, con tecnología e IA para ayudarlos a crecer.
 - 🚀 Creador de **Dahp Phad Studio**, un sistema de gestión de negocios con IA.
 - 👨‍💻 Desarrollo aplicaciones web completas, desde la base de datos hasta la pantalla.
