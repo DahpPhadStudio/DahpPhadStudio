@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### Tecnologías
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6DB33F&width=600&height=30&vCenter=true&lines=Spring+Boot+%7C+Spring+Security+%7C+Angular+%7C+Git+%7C+Arch+Linux" alt="Tecnologías" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6DB33F&width=600&height=30&vCenter=true&lines=Spring+Boot+%7C+Spring+Security+%7C+Angular+%7C+Git;+%7C+Arch+Linux" alt="Tecnologías" />
 
 <p>
 
