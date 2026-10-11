@@ -16,6 +16,13 @@ Soy desarrollador de software y me apasiona crear sitios web visualmente atracti
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/lista-animada.svg" alt="Soy desarrollador de software: creo sitios web a medida, aplicaciones completas, seguridad web con Spring Security y productos con IA" width="100%" />
+</div>
+
+[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
 <h2 align="center">💻 Habilidades</h2>
 ### Lenguajes
 
