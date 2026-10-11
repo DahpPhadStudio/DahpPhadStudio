@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Bases de Datos
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4479A1&width=800&height=30&vCenter=true&lines=MySQL+%7C+SQL+Server;Bases+de+datos+relacionales" alt="Bases de Datos" />
 
 <p>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -73,3 +74,5 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:dahpphadstudio@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
