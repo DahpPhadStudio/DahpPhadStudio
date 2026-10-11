@@ -9,12 +9,13 @@ Soy desarrollador de software y me apasiona crear sitios web visualmente atracti
 - 👨‍💻 Actualmente estoy trabajando con tecnologías de desarrollo web como Spring Boot y Spring Security.
 
   
-- 📚 Estoy aprendiendo sobre tecnologías frontend y backend, me gustan ambos lados.📚
+- 📚 Estoy aprendiendo sobre tecnologías frontend y backend, me gustan ambos lados.
 
   
-- 🎯 Mis metas futuras: Aprender más tecnologías web + Crear sitios web increíbles.🎯
+- 🎯 Mis metas futuras: Aprender más tecnologías web + Crear sitios web increíbles.
 
-
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <!--
 **DahpPhadStudio/DahpPhadStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
