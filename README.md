@@ -4,18 +4,14 @@
 Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar. 
 </p>
 
-- 🛠️ Stack: Java, Spring Boot, Spring Security, HTML, CSS, Git.
-
-- 👨‍💻 Desarrollo aplicaciones web con **Spring Boot** y **Spring Security**.
-
+- 🤝 Me enfoco en clientes independientes, emprendedores y negocios que quieren dar el salto al mundo digital: creo soluciones web a su medida, con tecnología e IA para ayudarlos a crecer.
+- 🚀 Creador de **Dahp Phad Studio**, un sistema de gestión de negocios con IA.
+- 👨‍💻 Desarrollo aplicaciones web completas, desde la base de datos hasta la pantalla.
 - 🐧 Dato curioso: mi sistema operativo favorito para desarrollar es **Arch Linux**.
-
+- 🧩 Me gusta construir productos de principio a fin, con orden y código limpio.
 - 🤖 Me gusta el desarrollo web + la integración con IA.
-
 - 🌐 Creo sitios web visuales, atractivos y fáciles de usar.
-
-- 🔐 Me enfoco en seguridad web: autenticación y roles con Spring Security.
-
+- 🔐 Me enfoco también en seguridad web: autenticación y roles con Spring Security.
 - 🎯 Mi meta: crear productos web con IA que resuelvan problemas reales.
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
