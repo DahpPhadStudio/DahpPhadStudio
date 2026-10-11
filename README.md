@@ -61,10 +61,11 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6DB33F&width=600&height=30&vCenter=true&lines=Spring+Boot+%7C+Spring+Security+%7C+Angular+%7C+Git;+%7C+Arch+Linux" alt="Tecnologías" />
 
 <p>
-
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 ### Redes y Contacto
