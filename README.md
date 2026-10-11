@@ -99,3 +99,42 @@ flowchart LR
     C --> E[(🗄️ MySQL)]
     C --> F[🤖 IA]
 ```
+[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+<h2 align="center">🤝 Trabaja conmigo</h2>
+
+| Servicio | Para quién | Qué recibes |
+|---|---|---|
+| 🌐 Página web a medida | Negocios nuevos | Un sitio rápido y fácil de usar |
+| ⚙️ Sistema de gestión | Emprendedores | Control de tu negocio en un solo lugar |
+| 🤖 Integración con IA | Negocios que quieren crecer | Tareas automáticas con inteligencia artificial |
+| 🔐 Login y roles seguros | Cualquier proyecto | Usuarios protegidos con Spring Security |
+
+📫 **Escríbeme:** dahpphadstudio@gmail.com
+
+[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+<h2 align="center">📂 Más sobre mí</h2>
+
+<details>
+<summary>🧭 ¿Cómo trabajo con un cliente?</summary>
+
+1. Hablamos de lo que necesitas.
+2. Te muestro una propuesta clara.
+3. Construyo el proyecto y te voy mostrando avances.
+4. Te lo entrego y te ayudo después.
+
+</details>
+
+<details>
+<summary>🚀 ¿Qué es Dahp Phad Studio?</summary>
+
+Un sistema de gestión de negocios con IA, pensado para clientes independientes.
+
+</details>
+
+[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
+
+[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
