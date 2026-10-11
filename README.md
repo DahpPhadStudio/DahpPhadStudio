@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💻 Habilidades
-
+<h2 align="center">💻 Habilidades</h2>
 ### Lenguajes
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&width=600&height=30&vCenter=true&lines=Java+%7C+HTML5+%7C+CSS3+%7C+JavaScript;Desarrollo+web+%2B+IA" alt="Lenguajes" />
