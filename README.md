@@ -1,5 +1,7 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am ☆Davinchy☆ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/titulo-animado.svg" alt="Hi, I am Davinchy" width="100%" />
+</div>
+
 <p>
 Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar. 
 </p>
