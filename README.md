@@ -1,19 +1,26 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am ☆Davinchy☆ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <p>
-Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar. Mi sistema operativo de Desarrollo es con ARCH LINUX.
+Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar. 
 </p>
 
-- 👨‍💻 Actualmente estoy trabajando con tecnologías de desarrollo web como Spring Boot y Spring Security.
+- 🛠️ Stack: Java, Spring Boot, Spring Security, HTML, CSS, Git.
 
-  
-- 📚 Estoy aprendiendo sobre tecnologías frontend y backend, me gustan ambos lados.
+- 👨‍💻 Desarrollo aplicaciones web con **Spring Boot** y **Spring Security**.
 
-  
-- 🎯 Mis metas futuras: Aprender más tecnologías web + Crear sitios web increíbles.
+- 🐧 Dato curioso: mi sistema operativo favorito para desarrollar es **Arch Linux**.
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+- 🤖 Me gusta el desarrollo web + la integración con IA.
+
+- 🌐 Creo sitios web visuales, atractivos y fáciles de usar.
+
+- 🔐 Me enfoco en seguridad web: autenticación y roles con Spring Security.
+
+- 🎯 Mi meta: crear productos web con IA que resuelvan problemas reales.
+
+- 📫 Contáctame: dahpphadstudio@gmail.com
+
+[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <!--
 **DahpPhadStudio/DahpPhadStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
