@@ -18,8 +18,6 @@ Soy desarrollador de software y me apasiona crear sitios web visualmente atracti
 
 - 🎯 Mi meta: crear productos web con IA que resuelvan problemas reales.
 
-- 📫 Contáctame: dahpphadstudio@gmail.com
-
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <!--
 **DahpPhadStudio/DahpPhadStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,13 +63,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </p>
 
 ### Redes y Contacto
 
 <p>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:dahpphadstudio@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
