@@ -5,7 +5,6 @@ Soy desarrollador de software y me apasiona crear sitios web visualmente atracti
 </p>
 
 <h2 align="center">🐧 Sobre mí</h2>
-
 ```bash
 $ neofetch
 
@@ -87,3 +86,14 @@ Here are some ideas to get you started:
 </p>
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+<h2 align="center">🧠 Cómo construyo mis proyectos</h2>
+
+```mermaid
+flowchart LR
+    A[👤 Cliente] --> B[🖥️ Angular]
+    B --> C[⚙️ Spring Boot]
+    C --> D[🔐 Spring Security]
+    C --> E[(🗄️ MySQL)]
+    C --> F[🤖 IA]
+```
