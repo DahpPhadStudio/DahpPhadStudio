@@ -26,6 +26,14 @@
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+<!-- Mi Escritorio -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/escritorio-animado.svg" alt="Mi escritorio: un programador trabaja en su portátil y su pantalla se proyecta en una terminal con fastfetch de davinchy@arch. Arch Linux, KDE Plasma, fish, Konsole, Nebulon Editor, DroidForge Studio, Java, Spring Boot, Angular, MySQL, SQL Server, Spring Security y Dahp Phad Studio." width="100%" />
+</div>
+
+[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 <!-- como construyo mis proyectos -->
 
 <div align="center">
