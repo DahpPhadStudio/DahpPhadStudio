@@ -42,15 +42,11 @@
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+<!-- Trabaja Conmigo -->
 
-<h2 align="center">🤝 Trabaja conmigo</h2>
-
-| Servicio | Para quién | Qué recibes |
-|---|---|---|
-| 🌐 Página web a medida | Negocios nuevos | Un sitio rápido y fácil de usar |
-| ⚙️ Sistema de gestión | Emprendedores | Control de tu negocio en un solo lugar |
-| 🤖 Integración con IA | Negocios que quieren crecer | Tareas automáticas con inteligencia artificial |
-| 🔐 Login y roles seguros | Cualquier proyecto | Usuarios protegidos con Spring Security |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/trabaja-conmigo-animado.svg" alt="Trabaja conmigo. Página web a medida para negocios nuevos, sistema de gestión para emprendedores, integración con IA para negocios que quieren crecer, login y roles seguros con Spring Security para cualquier proyecto, y apps multiplataforma conectadas al mismo sistema que tu web." width="100%" />
+</div>
 
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
