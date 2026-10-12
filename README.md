@@ -26,16 +26,10 @@
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<h2 align="center">🧠 Cómo construyo mis proyectos</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/como-construyo-animado.svg" alt="Cómo construyo mis proyectos. Mismo patrón para web y multiplataforma: el cliente usa una interfaz (Angular para web, una app multiplataforma para móvil y PC), ambas conectadas a la misma API con Spring Boot, que usa Spring Security, MySQL e inteligencia artificial." width="100%" />
+</div>
 
-```mermaid
-flowchart LR
-    A[👤 Cliente] --> B[🖥️ Angular]
-    B --> C[⚙️ Spring Boot]
-    C --> D[🔐 Spring Security]
-    C --> E[(🗄️ MySQL)]
-    C --> F[🤖 IA]
-```
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <h2 align="center">🤝 Trabaja conmigo</h2>
@@ -50,23 +44,8 @@ flowchart LR
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<h2 align="center">📂 Más sobre mí</h2>
-
-<details>
-<summary>🧭 ¿Cómo trabajo con un cliente?</summary>
-
-1. Hablamos de lo que necesitas.
-2. Te muestro una propuesta clara.
-3. Construyo el proyecto y te voy mostrando avances.
-4. Te lo entrego y te ayudo después.
-
-</details>
-
-<details>
-<summary>🚀 ¿Qué es Dahp Phad Studio?</summary>
-
-Un sistema de gestión de negocios con IA, pensado para clientes independientes.
-
-</details>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/sobre-mi-animado.svg" alt="Más sobre mí. Cómo trabajo con un cliente: hablamos de lo que necesitas, te muestro una propuesta clara, construyo el proyecto y te voy mostrando avances, te lo entrego y te ayudo después. Dahp Phad Studio es un sistema de gestión de negocios con IA, pensado para clientes independientes." width="100%" />
+</div>
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
