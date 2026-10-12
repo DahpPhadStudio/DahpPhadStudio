@@ -1,20 +1,20 @@
+<!-- presentacion animada -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/titulo-animado.svg" alt="Hi, I am Davinchy. Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar." width="100%" />
+  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/presentacion-animada.svg" alt="Hi, I am Davinchy. Creador de Dahp Phad Studio. Soy desarrollador de software y me apasiona crear sitios web visualmente atractivos y fáciles de usar." width="100%" />
 </div>
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/logo-dahp-phad-studio.svg" alt="Logo de Dahp Phad Studio, por Davinchy" width="100%" />
-</div>
-
-[![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<!-- lista -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/lista-animada.svg" alt="Soy desarrollador de software: creo sitios web a medida, aplicaciones completas, seguridad web con Spring Security y productos con IA" width="100%" />
 </div>
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+<!-- habilidades -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/habilidades-animado.svg" alt="Habilidades. Lenguajes: Java, HTML5, CSS3, JavaScript. Bases de datos: MySQL, SQL Server. Tecnologías: Spring Boot, Spring Security, Git, Arch Linux, Angular. Redes y contacto: GitHub, Instagram, Gmail." width="100%" />
@@ -26,11 +26,14 @@
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+<!-- como construyo mis proyectos -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/como-construyo-animado.svg" alt="Cómo construyo mis proyectos. Mismo patrón para web y multiplataforma: el cliente usa una interfaz (Angular para web, una app multiplataforma para móvil y PC), ambas conectadas a la misma API con Spring Boot, que usa Spring Security, MySQL e inteligencia artificial." width="100%" />
 </div>
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 
 <h2 align="center">🤝 Trabaja conmigo</h2>
 
@@ -43,6 +46,8 @@
 
 
 [![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+<!-- mas sobre mi -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/sobre-mi-animado.svg" alt="Más sobre mí. Cómo trabajo con un cliente: hablamos de lo que necesitas, te muestro una propuesta clara, construyo el proyecto y te voy mostrando avances, te lo entrego y te ayudo después. Dahp Phad Studio es un sistema de gestión de negocios con IA, pensado para clientes independientes." width="100%" />
