@@ -32,7 +32,7 @@
 <!-- 4 · HABILIDADES + BOTONES DE CONTACTO (la flecha del SVG apunta a estos botones) -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/habilidades-animado.svg?v=2" alt="Habilidades. Lenguajes: Java, HTML5, CSS3, JavaScript. Bases de datos: MySQL, SQL Server. Tecnologías: Spring Boot, Spring Security, Git, Arch Linux, Angular. Redes y contacto: GitHub, Instagram, Gmail." width="100%" />
+  <img src="https://raw.githubusercontent.com/DahpPhadStudio/DahpPhadStudio/main/assets/habilidades-animado.svg?v=3" alt="Habilidades. Lenguajes: Java, HTML5, CSS3, JavaScript. Bases de datos: MySQL, SQL Server. Tecnologías: Spring Boot, Spring Security, Git, Arch Linux, Angular. Redes y contacto: GitHub, Instagram, Gmail." width="100%" />
   <br>
   <a href="https://github.com/DahpPhadStudio"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.instagram.com/dahpphadstudio/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
